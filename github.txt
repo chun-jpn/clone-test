@@ -1,0 +1,24 @@
+開設サイト
+https://takilog.com/eclipse-github-vcs/2/
+
+秘密鍵(RSA鍵を生成)
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgQCiEuu0do2pXQ2+cb6Zf5xCd0ZFFORZZcx92Q6NRaH7qC/IBFgYe5Dxv29xSoxjGNk6VsPxeX10okwjjBOR972sEyNETKJO5Q/iNeRaC+SOAMEUnEmO58QIcUXJDb1xdPY3yrX2eb35izgSV2geIMpyi3/NEhTAazJuGDA9VvgrXQ== RSA-1024
+
+
+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
+
+①git add ファイル名
+
+②git commit -m " title "
+
+③git push origin main ・・・　mainはブランチ名
+
+git branch -m master main →　ブランチの変更。左記はmaster から main に変更している
+
+git remote -v →　リモートリポジトリの確認
+
+git branch -r
+
+git remote -m 
+
+git clone リモートリポジトリのURL
